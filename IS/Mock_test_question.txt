@@ -1,0 +1,83 @@
+a) Write short notes on Access Control Policies 
+b) Write short notes on Buffer overflow 
+c) Explain WLAN Security attacks 
+d) Write Cross Site Request Forgery with example 
+e) Explain Business Continuity Plan. 
+
+Keep the file name as seat number_a/b/c/d/e/f.pdf (e.g if you are attempting a,c,e,f and your seat no is 30 ,then file name will be 30_Q2 acef.pdf)
+
+1) Explain UTMS Security with neat diagram.
+2) Explain OAuth 2.0 architecture and its grant type with neat diagram. 
+3) Explain the different types WLAN Security attacks.
+4) Explain OWASP and its ten vulnerabilities.
+
+IS MCQS
+
+What is characteristic of RADIUS system ?
+--It provides centralized authentication mechanism via network devices
+
+Which happens first authorization or authentication ?
+--Authentication
+
+Which of the following principle is violated if the computer system is not accessible
+--access control
+
+___________________ access controls rely upon the use of labels.
+--Mandatory
+
+Virus that can change its appearance is called a _________________
+--polymorphic
+
+
+Keyloggers are a form of ______________.
+--Spyware
+
+Which of the following does a database security solution not monitor?
+--Database complexity
+
+What is best solution to have effect of unbounded number if base/bound registers?
+--Segmentation
+
+
+___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signal coverage.
+--Base Transceiver Station
+
+
+Which is a small file that the server embeds on the user's computer
+--cookie
+
+_____________ refers to phishing performed over smart-phone by calling.
+--Vishing
+
+
+The type of spyware that uses small images or HTML code hidden within an e-mail message
+--web bug
+
+
+In cross-site scripting where does the malicious script execute?
+--On the attacker’s system
+
+Wi Fi Alliance was formerly called as________
+--WECA
+
+ 
+Mention the Services provided by EAP
+--authentication and key generation
+
+Name the cyber-attack where DNS is Hijacked
+--Pharming
+
+criminals to trick a user into clicking on something different from what the user wants.
+--Clickjacking
+
+Activate _____________ when you’re required it to use, otherwise turn it off for security purpose.
+--Bluetooth
+
+ 
+Which among them has the strongest wireless security?
+--WPA3
+
+
+What are the different ways to classify an IDS?
+--Host & Network based
+
